@@ -1,5 +1,5 @@
 """
-ingestion/ingest.py - Embeddings via Ollama (lokal, kostenlos)
+ingestion/ingest.py - Embeddings via Ollama
 """
 
 import json, os, re, time
